@@ -2,6 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Anthony Do",
 	"description": "This is a test project not meant for commercial use",
+	"keywords": [
+		"freecodecamp",
+		"shuba",
+		"La-lion",
+		"Anime"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
